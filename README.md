@@ -1,4 +1,4 @@
-# Invoice-Recognition
+# What is Invoice Recognition?
 
 ![0_pYTfxJsBdAaQ7qxR](https://github.com/user-attachments/assets/732ad99d-2cce-4ff1-b1ab-a64b47b20b95)
 
