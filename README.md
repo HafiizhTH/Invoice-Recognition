@@ -1,5 +1,7 @@
 # Invoice-Recognition
 
+![0_pYTfxJsBdAaQ7qxR](https://github.com/user-attachments/assets/732ad99d-2cce-4ff1-b1ab-a64b47b20b95)
+
 Invoice recognition is an Artificial Intelligence (AI) and Optical Character Recognition (OCR) based technology designed to automatically extract key information from invoices. This technology is able to read invoices in both physical (paper) and digital form (such as PDFs or images), then convert the information into structured data that is easily processed by computer systems.
 
 Simply put, invoice recognition is an automation solution that can read and process invoice data to improve the speed and accuracy of recording information, both in printed and digital formats.
@@ -14,6 +16,8 @@ Simply put, invoice recognition is an automation solution that can read and proc
 4. **Make better decisions:** Well-organized invoice data provides valuable insights for more strategic business decision making.
 
 ## How Invoice Recognition Works
+
+![How-Does-OCR-Invoice-Processing-Work_-1](https://github.com/user-attachments/assets/8e0b9081-22e2-4b55-984a-69a77b3e05f0)
 
 The invoice acknowledgment process consists of the following key steps:
 
