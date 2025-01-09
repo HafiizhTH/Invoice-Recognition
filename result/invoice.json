@@ -1,0 +1,44 @@
+{
+  "supplier": {
+    "name": "KakaKiky Media",
+    "address": "Jln. Perdamaian Raya No. 6",
+    "phone": 6282219168068,
+    "email": "kakakiky.id@gmail.com",
+    "website": "https://www.kakakiky.id"
+  },
+  "invoice_number": "INV-1",
+  "invoice_date": null,
+  "due_date": null,
+  "client": {
+    "name": "PT Inovasi Digital Plus",
+    "address": "Jln. Perdamaian Raya No.7",
+    "phone": 6282211992233,
+    "email": "adm.suratplus@gmail.com"
+  },
+  "items": [
+    {
+      "description": "Desain Template Twibbon",
+      "unit_price": 50000,
+      "quantity": 1,
+      "amount": 50000
+    },
+    {
+      "description": "Desain Flyer",
+      "unit_price": 100000,
+      "quantity": 1,
+      "amount": 100000
+    }
+  ],
+  "payment_method": {
+    "account": "1929319239",
+    "account_name": "M. Rizki Riswandi",
+    "bank_details": "Bank Syariah Indonesia"
+  },
+  "totals": {
+    "subtotal": 150000,
+    "revisi": 10000,
+    "discount": "5%",
+    "down_payment": 7500,
+    "total": 122500
+  }
+}
